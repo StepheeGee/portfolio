@@ -1,0 +1,95 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 With a decade of legal experience as a licensed attorney in the state of Georgia, specializing primarily in family law and criminal defense, I've established a reputation for thinking outside the box and pioneering visionary approaches. Over the years, I've passionately advocated for my clients, utilizing creative arguments and theories in court to ensure they have a strong voice and representation. Currently, I am furthering my skill set and knowledge by pursuing studies in software development. My aim is to merge my legal expertise with technological innovation to establish The Dad Firm—a platform dedicated to supporting fathers navigating custody and family legal matters. This exciting journey combines my legal background with a passion for leveraging technology to make a meaningful impact on the lives of fathers seeking custody rights.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Classic",
+        "startDate": "2023",
+        "description": "My 201 final project was a team project, wehre we built the classic and nostalgic arcade game - Snake. For development, we used Javascript, CSS, and HTML5.",
+        "images": [
+          "images/otherimg/project-ss/snake1.png",
+          "images/otherimg/project-ss/snake2.png"
+        ],
+        "url": "",
+        "technologies": [
+          
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Snake",
+        "startDate": "2023",
+        "description": "My 201 final project was a team project, wehre we built the classic and nostalgic arcade game - Snake. For development, we used Javascript, CSS, and HTML5.",
+        "images": [
+          "images/otherimg/project-ss/snake2.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Game",
+        "startDate": "2023",
+        "description": "My 201 final project was a team project, wehre we built the classic and nostalgic arcade game - Snake. For development, we used Javascript, CSS, and HTML5.",
+        "images": [
+          "images/otherimg/project-ss/snake3.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-js-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Code Fellows",
+        "title": "Student Developer",
+        "years": "10.2023 - present",
+        "mainTech": [
+          "JavaScript"
+        ],
+        "technologies": [
+          "HTML",
+          "React",
+          "JavaScript",
+          "Bootstrap",
+          "CSS"
+        ]
+      },
+      {
+        "company": "",
+        "title": "Attorney",
+        "years": "10.2013 - Present",
+        "mainTech": [
+          
+        ],
+        "technologies": [
+          "LexisNexis",
+          "Georgia"
+
+        ]
+      }
+    ]
+  }
